@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Lazy Hound Games' 
 theme = 'archie'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
