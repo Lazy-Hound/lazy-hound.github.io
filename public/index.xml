@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lazy Hound Games</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lazy Hound Games</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Aug 2025 15:47:15 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello There!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 15 Aug 2025 15:47:15 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to the official site of Lazy Hound Games! You&amp;rsquo;ve never heard of us, I guarrantee it. We&amp;rsquo;re two brothers who work a mindless day job and make games in our spare time.&lt;/p&gt;&#xA;&lt;p&gt;Who are we, and why haven&amp;rsquo;t you hear of us? We just started trying to make games a few years back. Between kids, work, and other hobbies it&amp;rsquo;s been hard to find the time. But we&amp;rsquo;re serious, I tell you! It&amp;rsquo;s gonna happen&amp;hellip; sooner rather than later.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
