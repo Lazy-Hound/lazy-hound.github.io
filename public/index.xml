@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lazy Hound Games</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Lazy Hound Games</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2025 15:47:15 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Aug 2025 15:08:06 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dev Log 1: FPS Horror Game</title>
+      <link>https://example.org/posts/h2-fps-update-1/</link>
+      <pubDate>Thu, 21 Aug 2025 15:08:06 +0000</pubDate>
+      <guid>https://example.org/posts/h2-fps-update-1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Posted By: Hound 1&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&#xA;The story for this FPS game (built in Unity&amp;hellip; for now) is coming along nicely. Our game centers around a detective from Danvers, Massachusetts, US who has had some encounters he cannot explain. Here&amp;rsquo;s a little excerpt from the story so far:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&amp;ldquo;Morning, Bill,&amp;rdquo; said Chief Irons as detective Bill Schafer walked into the office. &amp;ldquo;Got a case here that needs looking into&amp;rdquo;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello There!</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://example.org/posts/my-first-post/</link>
       <pubDate>Fri, 15 Aug 2025 15:47:15 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Welcome to the official site of Lazy Hound Games! You&amp;rsquo;ve never heard of us, I guarrantee it. We&amp;rsquo;re two brothers who work a mindless day job and make games in our spare time.&lt;/p&gt;&#xA;&lt;p&gt;Who are we, and why haven&amp;rsquo;t you hear of us? We just started trying to make games a few years back. Between kids, work, and other hobbies it&amp;rsquo;s been hard to find the time. But we&amp;rsquo;re serious, I tell you! It&amp;rsquo;s gonna happen&amp;hellip; sooner rather than later.&lt;/p&gt;</description>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to the official site of Lazy Hound Games! You&amp;rsquo;ve never heard of us, I guarrantee it. We&amp;rsquo;re two brothers who work a mindless day job and make games in our spare time.&lt;/p&gt;&#xA;&lt;p&gt;Who are we, and why haven&amp;rsquo;t you heard of us? We just started trying to make games a few years back. Between kids, work, and other hobbies it&amp;rsquo;s been hard to find the time. But we&amp;rsquo;re serious, I tell you! It&amp;rsquo;s gonna happen&amp;hellip; sooner rather than later.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
